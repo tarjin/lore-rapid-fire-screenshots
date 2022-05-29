@@ -1,6 +1,6 @@
 ## Lore Rapid Fire Screenshots
 
-![Image](https://github.com/tarjin/lore-rapid-fire-screenshots/Banner.PNG)
+![Image](https://github.com/tarjin/lore-rapid-fire-screenshots/blob/main/Banner.PNG)
 
 
 ### About

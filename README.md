@@ -8,7 +8,9 @@
 
 [Source code for lore-rapid-fire-screenshots.exe](https://github.com/tarjin/lore-rapid-fire-screenshots/blob/main/Source%20code%20for%20Lore-Rapid-Fire-Screenshot%20-%20main.rs.pdf)
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+After double-clicking lore-rapid-fire-screenshots.exe a Windows Command window will appear showing the following.
+Note: lore-subprocess-capture-one-png.exe must be in the same folder as lore-rapid-fire-screenshots.exe.
+
 
 ```
 lore-rapid-fire-screenshots.exe v1.0.2022
@@ -31,6 +33,7 @@ lore-rapid-fire-screenshots.exe v1.0.2022
 Capturing screenshots
 Screenshot: 1 -- Press and hold down 'END' to quit early
 Screenshot: 2 -- Press and hold down 'END' to quit early
+...
 ```
 
 

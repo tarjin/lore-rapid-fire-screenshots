@@ -6,7 +6,7 @@
 
 ### About
 
-Source code: https://github.com/tarjin/lore-rapid-fire-screenshots/blob/main/Source%20code%20for%20Lore-Rapid-Fire-Screenshot%20-%20main.rs.pdf
+[Main Source code:](https://github.com/tarjin/lore-rapid-fire-screenshots/blob/main/Source%20code%20for%20Lore-Rapid-Fire-Screenshot%20-%20main.rs.pdf)
 
 Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
 

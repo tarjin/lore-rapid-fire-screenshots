@@ -2,7 +2,7 @@
 
 [Buy Now](https://lore-rapid-fire-screenshots.company.site/)
 
-The compiled, ready-to-run .exe files are for sale, but the source code is open-source and licensed under the MIT license.
+The compiled, ready-to-run .exe files are for sale, but the source code is open-source and licensed under the [MIT license](https://github.com/tarjin/lore-rapid-fire-screenshots/blob/main/LICENSE-Lore-Rapid-Fire-Screenshots_and_Lore-Subprocess-Capture-One-PNG.txt).
 
 ![](https://github.com/tarjin/lore-rapid-fire-screenshots/blob/main/Banner.PNG)
 
@@ -11,7 +11,7 @@ The compiled, ready-to-run .exe files are for sale, but the source code is open-
 
 [Source code for lore-rapid-fire-screenshots.exe](https://github.com/tarjin/lore-rapid-fire-screenshots/blob/main/Source%20code%20for%20Lore-Rapid-Fire-Screenshot%20-%20main.rs.pdf)
 
-After double-clicking lore-rapid-fire-screenshots.exe a Windows Command window will appear showing the following.
+After double-clicking lore-rapid-fire-screenshots.exe a window will appear showing the following. 
 Note: lore-subprocess-capture-one-png.exe must be in the same folder as lore-rapid-fire-screenshots.exe.
 
 

@@ -1,7 +1,7 @@
 ## Lore Rapid Fire Screenshots
 
 [Buy Now](https://lore-rapid-fire-screenshots.company.site/)
-The compiled, ready-to-run .exe files are for sale, but the source code is open-source and licensed under the MIT license.
+### The compiled, ready-to-run .exe files are for sale, but the source code is open-source and licensed under the MIT license.
 
 ![](https://github.com/tarjin/lore-rapid-fire-screenshots/blob/main/Banner.PNG)
 

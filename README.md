@@ -1,6 +1,6 @@
 ## Lore Rapid Fire Screenshots
 
-[Buy Now[(https://lore-rapid-fire-screenshots.company.site/)
+[Buy Now](https://lore-rapid-fire-screenshots.company.site/)
 ![](https://github.com/tarjin/lore-rapid-fire-screenshots/blob/main/Banner.PNG)
 
 

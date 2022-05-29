@@ -11,6 +11,8 @@ The compiled, ready-to-run .exe files are for sale, but the source code and soft
 
 [Source code for lore-rapid-fire-screenshots.exe](https://github.com/tarjin/lore-rapid-fire-screenshots/blob/main/Source%20code%20for%20Lore-Rapid-Fire-Screenshot%20-%20main.rs.pdf)
 
+[Source code for lore-subprocess-capture-one-png.exe](https://github.com/tarjin/lore-rapid-fire-screenshots/blob/main/Source%20code%20for%20Lore-Subprocess-Capture-One-PNG%20-%20main.rs.pdf)
+
 After double-clicking lore-rapid-fire-screenshots.exe a window will appear showing the following. 
 Note: lore-subprocess-capture-one-png.exe must be in the same folder as lore-rapid-fire-screenshots.exe.
 

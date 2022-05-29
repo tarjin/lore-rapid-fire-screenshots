@@ -1,4 +1,4 @@
-## Welcome to GitHub Pages
+## Lore Rapid Fire Screenshots
 
 You can use the [editor on GitHub](https://github.com/tarjin/lore-rapid-fire-screenshots/edit/main/README.md) to maintain and preview the content for your website in Markdown files.
 

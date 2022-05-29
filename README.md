@@ -6,8 +6,9 @@ The source code and software are open-source and licensed under the [MIT license
 
 ![](https://github.com/tarjin/lore-rapid-fire-screenshots/blob/main/Banner.PNG)
 
-
 ### About
+
+The software is built with the Rust programming language. No installation or license codes are necessary. Just double-click lore-rapid-fire-screenshots.exe to run.
 
 [Source code for lore-rapid-fire-screenshots.exe](https://github.com/tarjin/lore-rapid-fire-screenshots/blob/main/Source%20code%20for%20Lore-Rapid-Fire-Screenshot%20-%20main.rs.pdf)
 

@@ -16,7 +16,7 @@ The software is built with the Rust programming language. No installation or lic
 ### What does it do?
 Automatically take full-resolution screenshots (png format) of your entire main monitor every 2-3 seconds while you work for as long as you want. Perfect for capturing slides and chats from web conference calls (MS Teams, Zoom, etc.), taking still images from live web camera feeds used for surveillance or from online videos, creating instructional blog posts for software tutorials with time-lapsed images, and more. (Windows only).
 
-One-click operation that couldn't be easier as it captures your main display unobtrusively. No software installation and runs easily from a USB drive or SD card. Just launch the main program (double-click 'lore-rapid-fire-screenshots.exe' and you're off to the races.)
+One-click operation that couldn't be easier as it captures your main display unobtrusively. No software installation and runs easily from a USB drive or SD card (recommended 64GB of free space for saving screenshots). Just launch the main program (double-click 'lore-rapid-fire-screenshots.exe' and you're off to the races.)
 
 ### Instructions
 

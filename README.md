@@ -48,3 +48,4 @@ Screenshot: 2 -- Press and hold down 'END' to quit early
 ...
 ```
 
+[See Instructions.pdf](https://github.com/tarjin/lore-rapid-fire-screenshots/blob/main/Instructions.pdf)

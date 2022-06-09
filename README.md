@@ -1,6 +1,6 @@
 ## Lore Rapid Fire Screenshots
 
-[Buy Now](https://lore-rapid-fire-screenshots.company.site/)
+[Buy Now]([https://lore-rapid-fire-screenshots.company.site/](https://lore-digital.company.site/Lore-Rapid-Fire-Screenshots-p469103103))
 
 The source code and software are open-source and licensed under the [MIT license](https://github.com/tarjin/lore-rapid-fire-screenshots/blob/main/LICENSE-Lore-Rapid-Fire-Screenshots_and_Lore-Subprocess-Capture-One-PNG.txt). As a service to you, the compiled ready-to-use software with .exe files are for sale.
 ![](https://github.com/tarjin/lore-rapid-fire-screenshots/blob/main/Banner.PNG)
